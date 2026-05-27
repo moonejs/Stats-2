@@ -11,16 +11,14 @@
             "id": "14b91021baa02951",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "TU-26-Random_variable_pmf.pdf",
-                "page": 4,
-                "left": 1,
-                "top": 417,
-                "zoom": 1.87
+                "file": "Homework/homework.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "TU-26-Random_variable_pmf"
+              "icon": "lucide-file",
+              "title": "homework"
             }
           }
         ]
@@ -203,8 +201,8 @@
   },
   "active": "14b91021baa02951",
   "lastOpenFiles": [
+    "homework-1..pdf",
     "Homework/homework.md",
-    "TU-26-Random_variable_pmf.pdf",
     "index.md",
     "Homework",
     "Stats-2/README.md",
