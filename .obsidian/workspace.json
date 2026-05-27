@@ -1,0 +1,263 @@
+{
+  "main": {
+    "id": "158fa17493a6cfb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "7693045704acd9e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "547274fbbe240b60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basics/Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Deep Learning"
+            }
+          },
+          {
+            "id": "14b91021baa02951",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26bd4dc1e4c6a94c",
+    "type": "split",
+    "children": [
+      {
+        "id": "69adccdac9f334dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aef3ca45d6106d97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "14d694e8c8636b0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "find",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c926453f51e69d3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257
+  },
+  "right": {
+    "id": "7380c656a45a03b3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cc9b1f4ad3d106c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ab0bce1d39ed123",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-22 17.35.56.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Drawing 2025-12-22 17.35.56.excalidraw"
+            }
+          },
+          {
+            "id": "479a28b37bc77777",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-22 17.35.56.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Drawing 2025-12-22 17.35.56.excalidraw"
+            }
+          },
+          {
+            "id": "a0874b28ae5c1c69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "563ffe33c5c614ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "7380299e695bba07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-22 17.35.56.excalidraw.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Drawing 2025-12-22 17.35.56.excalidraw"
+            }
+          },
+          {
+            "id": "78ff631d110b1bef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "14b91021baa02951",
+  "lastOpenFiles": [
+    "Stats-2/README.md",
+    "Stats-2",
+    "Drawings/dl-1idraw.md",
+    "Drawings/dl-1idraw.svg",
+    "Basics/Deep Learning.md",
+    "Drawings",
+    "Basics",
+    "Deep-Learning/New Section 1.one",
+    "Deep-Learning/Open Notebook.onetoc2",
+    "Deep-Learning",
+    "Pytorch",
+    "Deep-Learning/README.md",
+    "Deep-Learning",
+    "conflict-files-obsidian-git.md",
+    "README.md",
+    "Linear-Algebra/Material/Material.md",
+    "Linear-Algebra/Lectures/System of Linear equation.md",
+    "Linear-Algebra/Lectures/Vectors.md",
+    "Linear-Algebra/Lectures/Matrix Notation.md",
+    "Linear-Algebra/Diagram/Vectors.md",
+    "Linear-Algebra/Syllabus.md",
+    "Linear-Algebra/Material",
+    "Linear-Algebra/Lectures",
+    "Git hub setup.md",
+    "week-4/cycle Detection.md",
+    "week-4/Application of BFS and DFS.md",
+    "week-4/Important - formulas.md",
+    "week-4/IITM bs DAG.md",
+    "week-4/graphs-part-1.md",
+    "week-4/Graph Traversing Algorithms.md",
+    "Graphs/connected Component.md",
+    "Graphs/DFS.md",
+    "Graphs/BFS.md",
+    "Arrays/Binary-Search.md",
+    "week-2/Analysis of Algorithms.md",
+    "Sorting/Selection Sort.md",
+    "Sorting/Insertion Sort.md",
+    "attachments/Pasted image 20260422135507.png",
+    "attachments/Pasted image 20260422133328.png",
+    "Drawing 2026-04-14 20.31.33.excalidraw.svg",
+    "week-4/Drawing 2026-03-14 01.55.16.excalidraw.svg",
+    "attachments/Pasted image 20260310190535.png",
+    "attachments/Pasted image 20260310190024.png",
+    "attachments/Pasted image 20260308172048.png",
+    "attachments/Pasted image 20260308171243.png",
+    "Drawings/wowDiagrmas/Drawing 2026-03-05 07.01.35.excalidraw.svg",
+    "Untitled.canvas"
+  ]
+}
