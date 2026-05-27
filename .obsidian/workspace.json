@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Homework/homework.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "homework"
             }
           }
         ]
@@ -199,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aef3ca45d6106d97",
+  "active": "14b91021baa02951",
   "lastOpenFiles": [
+    "index.md",
+    "Homework/homework.md",
     "Homework",
-    "index.md",
-    "index.md",
     "Stats-2/README.md",
     "Stats-2",
     "Drawings/dl-1idraw.md",
@@ -226,7 +226,6 @@
     "Linear-Algebra/Diagram/Vectors.md",
     "Linear-Algebra/Syllabus.md",
     "Linear-Algebra/Material",
-    "Linear-Algebra/Lectures",
     "Git hub setup.md",
     "week-4/cycle Detection.md",
     "week-4/Application of BFS and DFS.md",
