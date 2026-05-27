@@ -11,14 +11,16 @@
             "id": "14b91021baa02951",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Homework/homework.md",
-                "mode": "source",
-                "source": false
+                "file": "TU-26-Random_variable_pmf.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 847,
+                "zoom": 1.4997983464408147
               },
-              "icon": "lucide-file",
-              "title": "homework"
+              "icon": "lucide-file-text",
+              "title": "TU-26-Random_variable_pmf"
             }
           }
         ]
@@ -201,8 +203,9 @@
   },
   "active": "14b91021baa02951",
   "lastOpenFiles": [
-    "index.md",
     "Homework/homework.md",
+    "TU-26-Random_variable_pmf.pdf",
+    "index.md",
     "Homework",
     "Stats-2/README.md",
     "Stats-2",
@@ -225,7 +228,6 @@
     "Linear-Algebra/Lectures/Matrix Notation.md",
     "Linear-Algebra/Diagram/Vectors.md",
     "Linear-Algebra/Syllabus.md",
-    "Linear-Algebra/Material",
     "Git hub setup.md",
     "week-4/cycle Detection.md",
     "week-4/Application of BFS and DFS.md",
