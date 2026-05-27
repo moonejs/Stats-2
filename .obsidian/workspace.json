@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           }
         ]
@@ -201,7 +201,7 @@
   },
   "active": "14b91021baa02951",
   "lastOpenFiles": [
-    "index.md.md",
+    "index.md",
     "index.md",
     "Stats-2/README.md",
     "Stats-2",
